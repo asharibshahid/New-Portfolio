@@ -47,7 +47,7 @@ const HeroAbout = () => {
         className='relative flex flex-col md:flex-row items-center justify-between h-screen px-10 bg-gradient-to-br from-indigo-900 to-purple-700 text-white overflow-hidden'
       >
         <div ref={textRef} className='text-left max-w-xl'>
-          <h1 className='text-5xl font-extrabold leading-tight'>Hello, I'm  Asharib</h1>
+          <h1 className='text-5xl font-extrabold leading-tight'>Hello Im  Asharib</h1>
           <div className='  text-white text-center shadow-lg rounded-lg p-4 mt-4'>
             <Typewriter
               options={{
@@ -57,7 +57,7 @@ const HeroAbout = () => {
               }}
             />
           </div>
-          <p className='mt-4 text-lg text-gray-200'>A passionate developer crafting stunning web experiences.</p>
+          <p className='mt-4 text-lg text-gray-200'>A passionate developer crafting stunning web experiences</p>
           <Link href="/components/contact"> 
           <button className='mt-6 px-6 py-3 bg-yellow-400 hover:bg-yellow-500 text-black text-lg font-semibold rounded-lg shadow-lg transition-all'>
             Contact Me
@@ -78,7 +78,7 @@ const HeroAbout = () => {
       <section ref={aboutRef} className='py-20 bg-gray-900 text-white text-center'>
         <h2 className='text-4xl font-bold mb-6 text-cyan-400'>About Me</h2>
         <p className='max-w-3xl mx-auto text-lg text-gray-300'>
-          I specialize in creating modern, high-performance websites and web applications using the latest technologies like Next.js, React, and GSAP for smooth animations.
+          I specialize in creating modern highperformance websites and web applications using the latest technologies like Next.js React and GSAP for smooth animations
           </p>
           <br />
          <div>
