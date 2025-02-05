@@ -113,16 +113,16 @@ const Contact = () => {
 
             {/* Social Media Icons */}
             <div className="flex justify-center lg:justify-start space-x-6">
-              <a href="https://facebook.com" target="_blank" rel="noopener noreferrer">
+              <a href="ttps://www.facebook.com/asharibshahid" target="_blank" rel="noopener noreferrer">
                 <Icon icon="logos:facebook" className="w-10 h-10 text-blue-500 hover:scale-110 transition-transform" />
               </a>
-              <a href="https://twitter.com" target="_blank" rel="noopener noreferrer">
+              <a href="https://x.com/AsharibSheikh01" target="_blank" rel="noopener noreferrer">
                 <Icon icon="skill-icons:twitter" className="w-10 h-10 text-sky-400 hover:scale-110 transition-transform" />
               </a>
-              <a href="https://instagram.com" target="_blank" rel="noopener noreferrer">
+              <a href="https://www.instagram.com/web_ghost.io/" target="_blank" rel="noopener noreferrer">
                 <Icon icon="skill-icons:instagram" className="w-10 h-10 text-pink-500 hover:scale-110 transition-transform" />
               </a>
-              <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer">
+              <a href="https://www.linkedin.com/in/asharib-shahid-73a3022b5/" target="_blank" rel="noopener noreferrer">
                 <Icon icon="skill-icons:linkedin" className="w-10 h-10 text-blue-600 hover:scale-110 transition-transform" />
               </a>
               <a href="https://github.com" target="_blank" rel="noopener noreferrer">
